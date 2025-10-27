@@ -96,9 +96,12 @@ http://127.0.0.1:5000
 ## 🌤 Usage
 
 Get current weather
+```bash
 http://127.0.0.1:5000/weather?city=<city_name>
+```
+```bash
 http://127.0.0.1:5000/weather?city=london
-
+```
 Response:
 
 ```bash
